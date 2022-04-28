@@ -1,1 +1,1 @@
-# homework_if-else_Anastasiya
+A simple command-line application.
